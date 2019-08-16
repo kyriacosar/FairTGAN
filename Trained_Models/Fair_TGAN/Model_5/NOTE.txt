@@ -1,0 +1,4 @@
+Only this sample is generated:
+43,Private,117843,9th,10,Married-civ-spouse,Sales,Other-relative,Other,Female,0,0,48,United-States,<=50K
+
+This is due to the fact that the learning rate for gen and discrim is too high. Different learning rates should be used for gen/discrim and fairness.

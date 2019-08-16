@@ -1,0 +1,3 @@
+The sensitive attribute was removed from the inputs of the discriminator for both originial and generated datasets.
+
+Resulting dataset has only female samples.

@@ -1,0 +1,10 @@
+{
+    "name": "adult",
+    "num_random_search": 10,
+    "train_csv": "data/adult_train.csv",
+    "continuous_cols": [0,2,4,10,11,12],
+    "sensitive_column": 9,
+    "epoch": 1,
+    "steps_per_epoch": 100,
+    "sample_rows": 10000
+}
